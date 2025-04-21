@@ -1,4 +1,4 @@
-![Amazon_screenshot (203)](https://github.com/user-attachments/assets/31ed85bd-7396-4259-a49c-1d5624004c15)# Basic Amazon Clone
+# Basic Amazon Clone
 
 This is a basic clone of the Amazon homepage built using only **HTML** and **CSS**.  
 It was created as a front-end practice project to improve my skills in layout, styling, and responsive design.
